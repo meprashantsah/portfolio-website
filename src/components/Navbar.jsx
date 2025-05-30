@@ -18,7 +18,7 @@ const Navbar = () => {
 
           <li>
             <a
-              href="https://drive.google.com/uc?export=download&id=12EC5DVNHsVu8ZOn8nvb049fj_bVQkPlH"
+              href="https://drive.google.com/uc?export=download&id=1u7rM3Zjf-lpn12xcn10oguZakB0SeMk0"
               download
               className="text-white bg-blue-600 px-4 py-1 rounded-lg text-[16px] font-medium hover:bg-blue-700 transition"
             >
